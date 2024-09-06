@@ -6,5 +6,6 @@ public class AreaCircTeste {
         AreaCirc area = new AreaCirc(10);
         area.pi = 10;
         System.out.println(area.area());
+        
     }
 }
